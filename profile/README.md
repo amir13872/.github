@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Amir Mahdi Zare (@amir138722)
+# 👋 Hey, I'm [Amir Mahdi Zare](https://github.com/amir138722)
 
 ### 🧑‍🎓 Student | Aspiring Red Teamer | Python & Cybersecurity Enthusiast
 
