@@ -34,6 +34,7 @@ Stay tuned as I publish more projects!
 - 💼 [LinkedIn](https://www.linkedin.com/in/amir13872/)
 - 🐦 [X (Twitter)](https://x.com/amirmahdizare)
 - 📬 Feel free to reach out via LinkedIn!
+- 😎 [Personal account](https://github.com/amir138722)
 
 ---
 
